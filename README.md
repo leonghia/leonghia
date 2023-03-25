@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **leonghia/leonghia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![leonghia-background-image](https://user-images.githubusercontent.com/112583996/227707233-4b9ce795-da07-43b5-908c-04837f92e0ae.jpg)
